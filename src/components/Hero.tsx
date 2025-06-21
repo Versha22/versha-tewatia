@@ -111,7 +111,7 @@ export const Hero = ({ scrollToSection }: HeroProps) => {
               <div className="w-80 h-80 rounded-full bg-gradient-to-br from-blue-400 via-teal-400 to-purple-500 p-1 shadow-2xl shadow-blue-500/25 group-hover:shadow-blue-500/40 transition-all duration-500 relative z-20">
                 <div className="w-full h-full rounded-full bg-slate-800 flex items-center justify-center relative overflow-hidden">
                   <img 
-                    src="/lovable-uploads/36a05dbb-9014-404b-8301-2423f8cee5b2.png" 
+                    src="/profile_pic/36a05dbb-9014-404b-8301-2423f8cee5b2.png" 
                     alt="Versha Tewatia - Profile Picture"
                     className="w-full h-full object-cover rounded-full"
                   />
