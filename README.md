@@ -44,11 +44,11 @@ I love creating clean, user-friendly interfaces and solving problems through cod
 
 ## 📊 GitHub Stats
 
-![Visitor Count](https://komarev.com/ghpvc/?username=versha-tewatia&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Versha22&color=blue)
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=versha-tewatia&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Versha22&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=versha-tewatia&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Versha22&layout=compact)
 
 ---
 
